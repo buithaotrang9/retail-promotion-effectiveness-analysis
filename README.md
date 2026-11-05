@@ -38,13 +38,13 @@ This project analyzes sales data from 1,115 Rossmann stores to evaluate promotio
 
 **2. Performance Across Store Types**
 
-- **Store Type A** is the primary revenue driver, leading in both total promotional sales **(409M)** and promotional uplift **(Sales Lift 41.58%, Customer Lift 24.04%)**.
-- **Store Type B** showed the lowest performance with minimal promo sales **(17M)** and the lowest **Sales Lift of 17.23%**, requiring a strategic review before expanding marketing budgets there.
+- **Store Type A** is the primary revenue driver, leading in both total promotional sales **(409M)** and promotional uplift **(41.58% Sales Lift, 24.04% Customer Lift)**.
+- **Store Type B** showed the lowest performance with minimal promo sales **(17M)** and the lowest **17.23% Sales Lift**, requiring a strategic review before expanding marketing budgets there.
 
 **3. Impact by Assortment Categories**
 
-- **Basic** assortment delivered the strongest performance with a **Sales Lift of 40.90%** and **Customer Lift of 22.74%**.
-- **Extended** assortment closely followed with a **35.29% Sales Lift**. Meanwhile, Extra assortment yielded a much lower response **(7.23% Sales Lift)**, showing lower price sensitivity under current promotions.
+- **Basic** assortment delivered the strongest performance with **40.90% Sales Lift** and **22.74% Customer Lift**.
+- **Extended** assortment closely followed with **35.29% Sales Lift**. Meanwhile, Extra assortment yielded a much lower response **(7.23% Sales Lift)**, showing lower price sensitivity under current promotions.
 
 **4. Temporal Patterns**
 
