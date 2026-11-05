@@ -36,33 +36,33 @@ This project analyzes sales data from 1,115 Rossmann stores to evaluate promotio
 - **January** generated the highest total promotional sales reaching **123M**, largely supported by strong baseline seasonal demand.
 - **June** achieved the strongest promotional efficiency with **52.71% Sales Lift** and **29.12% Customer Lift**, indicating a highly effective promotional campaign.
 
-**2. Promotion Effectiveness by Store Type**
+**2. Performance Across Store Types**
 
 - **Store Type A** is the primary revenue driver, leading in both total promotional sales **(409M)** and promotional uplift **(Sales Lift 41.58%, Customer Lift 24.04%)**.
 - **Store Type B** showed the lowest performance with minimal promo sales **(17M)** and the lowest **Sales Lift of 17.23%**, requiring a strategic review before expanding marketing budgets there.
 
-**3. Promotion Effectiveness by Assortment**
+**3. Impact by Assortment Categories**
 
 - **Basic** assortment delivered the strongest performance with a **Sales Lift of 40.90%** and **Customer Lift of 22.74%**.
 - **Extended** assortment closely followed with a **35.29% Sales Lift**. Meanwhile, Extra assortment yielded a much lower response **(7.23% Sales Lift)**, showing lower price sensitivity under current promotions.
 
-**4. Promotion Effectiveness by Calendar Events**
+**4. Temporal Patterns**
 
 - **State Holidays:** Major holidays like Easter Holiday generated the most significant surge, reaching up to **67.2% Sales Lift**, significantly outperforming normal days **(37.5%)** and other public holidays **(8.6%)**.
-- **Day of Week:** Promotional volume concentrated heavily at the beginning of the week (Monday peaked at **18.9K Promo Store-Days** and yielded the highest **Sales Lift of 59.96%**), gradually declining toward the weekend (dropping to **21.52% on Friday**).
+- **Day of Week:** Promotional volume concentrated heavily at the beginning of the week (**Monday** peaked at **18.9K Promo Store-Days** and yielded the highest **Sales Lift of 59.96%**), gradually declining toward the weekend (dropping to **21.52% on Friday**).
 
 ## 💡 Recommendations
 **1. Campaign Timing Optimization** 
 - Reallocate marketing budget and large promotional campaigns toward high-lift months (such as June and April) to maximize conversion efficiency, rather than solely relying on months with naturally high baseline sales (like January).
-- Capitalize on major holidays (especially Easter Holiday and long weekends) as they deliver exceptional promotional uplift (up to 67%).
+- Capitalize on major holidays (especially Easter Holiday and long weekends) as they deliver exceptional promotional uplift.
 - Capitalize on the "Monday Effect": Concentrate flash sales and promotional vouchers on Mondays to capture peak customer purchasing intent instead of distributing budget evenly throughout the week.
 
 **2. Refine Promotion Allocation Across Store Types:** 
-- Prioritize marketing resources and campaign testing in Store Type A and D (which deliver strong sales lifts between 35% and 41%).
-- For Store Type B, evaluate localized customer behavior or alternative engagement strategies (such as bundling or gift-with-purchase) given its low promotional responsiveness (17.23% Sales Lift).
+- Prioritize marketing resources and campaign testing in **Store Type A**.
+- For **Store Type B**, evaluate localized customer behavior or alternative engagement strategies (such as bundling or gift-with-purchase) given its low promotional responsiveness.
 
 **3. Tailor Promotional Strategies to Assortment Types:** 
-- Focus flash sales and deep discounts primarily on Basic and Extended assortments to effectively stimulate basket size and customer traffic.
+- Focus flash sales and deep discounts primarily on **Basic** and **Extended** assortments to effectively stimulate basket size and customer traffic.
 - Review discount conditions for the Extra assortment to avoid margin erosion without achieving proportional sales lift.
 
 ## ⚠️ Limitations
