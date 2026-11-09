@@ -53,9 +53,9 @@ This project analyzes sales data from 1,115 Rossmann stores to evaluate promotio
 
 ## 💡 Recommendations
 **1. Campaign Timing Optimization** 
-- Reallocate marketing budget and large promotional campaigns toward high-lift months (such as June and April) to maximize conversion efficiency, rather than solely relying on months with naturally high baseline sales (like January).
+- Reallocate marketing budget and large promotional campaigns toward high-lift months **(such as June and April)** to maximize conversion efficiency, rather than solely relying on months with naturally high baseline sales (like **January**).
 - Capitalize on major holidays (especially Easter Holiday and long weekends) as they deliver exceptional promotional uplift.
-- Capitalize on the "Monday Effect": Concentrate flash sales and promotional vouchers on Mondays to capture peak customer purchasing intent instead of distributing budget evenly throughout the week.
+- Capitalize on the **"Monday Effect"**: Concentrate flash sales and promotional vouchers on Mondays to capture peak customer purchasing intent instead of distributing budget evenly throughout the week.
 
 **2. Refine Promotion Allocation Across Store Types:** 
 - Prioritize marketing resources and campaign testing in **Store Type A**.
